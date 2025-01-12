@@ -53,7 +53,7 @@ python3 hackme.py
 ```
 
 ## PDF HackMe J5 Usage
-1. You gotta firstly configure the `PAYLOAD` file, which contain the malicious javascript code to inject to the PDF file
+1. You gotta firstly configure the `PAYLOAD` file, which contain the malicious javascript code that gonna be injected to the PDF file
 ```js
 var author = "EvilFeonix";
 var tool = "PDF-HackMe-J5";
