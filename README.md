@@ -55,12 +55,12 @@ python3 hackme.py
 ## PDF HackMe J5 Usage
 1. You gotta firstly configure the `PAYLOAD` file, which contain the malicious javascript code that gonna be injected to the PDF file
 ```js
-var author = "EvilFeonix";
-var tool = "PDF-HackMe-J5";
-alert("Welcome To "+tool+", Created by "+author+"!");
+var authors = "EvilFeonix";
+var tools = "PDF-HackMe-J5";
+alert("Welcome To "+tools+", Created by "+authors+"!");
 alert("this is a python based-embedding script that allows you to simply craft your own malicious JavaScript payload to a PDF file");
-console.log(author);
-console.log(tool);
+console.log(authors);
+console.log(tools);
 ```
 
 2. Then finally run the tool.
@@ -120,6 +120,8 @@ app.Message("evilfeonix");
 > **The PDF files created by this tool are store and saved in `/storage/emulated/0/PDF-HackMe-J5/` directory. And if PDF file name you entered exists in the destination path, this tool will over-write the file.**
 
 > **Variables like  Title,Author,Application, in your payload are modified by add_metadata, just add (s) eg. Titles,Authors,Applications, in order to avoid the modification**
+> 
+> **Feel free to use this tool maliciously, due to this tool was created, intended for malicious purpose. But make sure you used this tool respectively.**
 
 > **Note that the creators of this tool are not responsible for any misuse or damage caused by its usage.**
 
