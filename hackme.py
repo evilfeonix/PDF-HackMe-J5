@@ -127,7 +127,7 @@ def main():
     )
 
     parser.add_argument(
-        "--payload", default = "PAYLOAD",
+        "--payload", default = "PAYLOAD.js",
         help = "path to javascript payload file"
     )
 
