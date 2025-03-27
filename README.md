@@ -99,11 +99,11 @@ python3 hackme.py
 _**PDF HackMe** is released under the MIT License. See License for details_ 
 
 #  Follow Us
-github: https://github.com/evilfeonix\
-website: https://evilfeonix.github.io\
-web-blog: https://evilfeonix.github.io/blog\
-youtube: https://www.youtube.com/@evilfeonix\
-linkedin: https://www.linkedin.com/in/evilfeonix\
+github: https://github.com/evilfeonix \
+website: https://evilfeonix.github.io \
+web-blog: https://evilfeonix.github.io/blog \
+youtube: https://www.youtube.com/@evilfeonix \
+linkedin: https://www.linkedin.com/in/evilfeonix \
 
 <div align="center" >
     Happy PDF Hacking!
